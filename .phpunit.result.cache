@@ -1,1 +1,0 @@
-{"version":1,"defects":{"SnapBusinessSDK\\Test\\Api\\DefaultApiTest::testSendData":2},"times":{"SnapBusinessSDK\\Test\\Api\\DefaultApiTest::testSendData":0.003,"SnapBusinessSDK\\Test\\Util\\CapiHashTest::testNormAndHashPhoneNum":0.001,"SnapBusinessSDK\\Test\\Util\\CapiHashTest::testNormAndHash":0,"SnapBusinessSDK\\Test\\Util\\CapiHashTest::testNormAndSoundex":0}}
